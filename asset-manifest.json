@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Marcinho92.github.io/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Marcinho92.github.io/static/js/main.95676a8d.chunk.js",
-    "main.js.map": "/Marcinho92.github.io/static/js/main.95676a8d.chunk.js.map",
-    "runtime-main.js": "/Marcinho92.github.io/static/js/runtime-main.bb767a68.js",
-    "runtime-main.js.map": "/Marcinho92.github.io/static/js/runtime-main.bb767a68.js.map",
-    "static/js/2.0857f0d0.chunk.js": "/Marcinho92.github.io/static/js/2.0857f0d0.chunk.js",
-    "static/js/2.0857f0d0.chunk.js.map": "/Marcinho92.github.io/static/js/2.0857f0d0.chunk.js.map",
-    "index.html": "/Marcinho92.github.io/index.html",
-    "precache-manifest.9edfb6d08e78b375ab697892ba7d75ce.js": "/Marcinho92.github.io/precache-manifest.9edfb6d08e78b375ab697892ba7d75ce.js",
-    "service-worker.js": "/Marcinho92.github.io/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/Marcinho92.github.io/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.0857f0d0.chunk.js.LICENSE.txt": "/Marcinho92.github.io/static/js/2.0857f0d0.chunk.js.LICENSE.txt"
+    "main.css": "/react_ivation/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react_ivation/static/js/main.a3de8ffd.chunk.js",
+    "main.js.map": "/react_ivation/static/js/main.a3de8ffd.chunk.js.map",
+    "runtime-main.js": "/react_ivation/static/js/runtime-main.e597a3ff.js",
+    "runtime-main.js.map": "/react_ivation/static/js/runtime-main.e597a3ff.js.map",
+    "static/js/2.0857f0d0.chunk.js": "/react_ivation/static/js/2.0857f0d0.chunk.js",
+    "static/js/2.0857f0d0.chunk.js.map": "/react_ivation/static/js/2.0857f0d0.chunk.js.map",
+    "index.html": "/react_ivation/index.html",
+    "precache-manifest.3a8668c18f6f1d3c83dfd1dba762bb18.js": "/react_ivation/precache-manifest.3a8668c18f6f1d3c83dfd1dba762bb18.js",
+    "service-worker.js": "/react_ivation/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react_ivation/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0857f0d0.chunk.js.LICENSE.txt": "/react_ivation/static/js/2.0857f0d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb767a68.js",
+    "static/js/runtime-main.e597a3ff.js",
     "static/js/2.0857f0d0.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.95676a8d.chunk.js"
+    "static/js/main.a3de8ffd.chunk.js"
   ]
 }
