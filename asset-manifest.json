@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Marcinho92.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Marcinho92.github.io/static/js/main.95676a8d.chunk.js",
+    "main.js.map": "/Marcinho92.github.io/static/js/main.95676a8d.chunk.js.map",
+    "runtime-main.js": "/Marcinho92.github.io/static/js/runtime-main.bb767a68.js",
+    "runtime-main.js.map": "/Marcinho92.github.io/static/js/runtime-main.bb767a68.js.map",
+    "static/js/2.0857f0d0.chunk.js": "/Marcinho92.github.io/static/js/2.0857f0d0.chunk.js",
+    "static/js/2.0857f0d0.chunk.js.map": "/Marcinho92.github.io/static/js/2.0857f0d0.chunk.js.map",
+    "index.html": "/Marcinho92.github.io/index.html",
+    "precache-manifest.9edfb6d08e78b375ab697892ba7d75ce.js": "/Marcinho92.github.io/precache-manifest.9edfb6d08e78b375ab697892ba7d75ce.js",
+    "service-worker.js": "/Marcinho92.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Marcinho92.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.0857f0d0.chunk.js.LICENSE.txt": "/Marcinho92.github.io/static/js/2.0857f0d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb767a68.js",
+    "static/js/2.0857f0d0.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.95676a8d.chunk.js"
+  ]
+}
