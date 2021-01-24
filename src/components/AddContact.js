@@ -11,7 +11,7 @@ export default class AddContacts extends Component {
             email: this.refs.email.value,
         }
 
-        fetch("http://localhost:8080/api/contacts", {
+        fetch("http://localhost:8080/contacts", {
             method: "POST",
             headers: {
                 "content-type": "application/json",
